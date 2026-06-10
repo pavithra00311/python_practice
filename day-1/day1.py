@@ -25,8 +25,4 @@ print("Student info:", student)
 
 
 
-# Printing special characters
-print("Quotes: \"Double\" and 'Single'")
-print("Backslash: \\ Example")
-
 
