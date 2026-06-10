@@ -17,4 +17,16 @@ print("10 / 2 =", 10 / 2)
 # lists
 fruits = ["apple", "banana", "cherry"]
 print("Fruits list:", fruits)
+# boolean values
+print(True)
+print(False)
+student = {"name": "Anush", "age": 20, "course": "Python"}
+print("Student info:", student)
+
+
+
+# Printing special characters
+print("Quotes: \"Double\" and 'Single'")
+print("Backslash: \\ Example")
+
 
